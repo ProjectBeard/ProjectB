@@ -1,6 +1,5 @@
-# OwlGaming V
+# Project B
 
-[![.NET](https://github.com/OwlGamingCommunity/V/actions/workflows/dotnet.yml/badge.svg?branch=main)](https://github.com/OwlGamingCommunity/V/actions/workflows/dotnet.yml)
 
 The Grand Theft Auto V Roleplay server for RAGE:MP.
 
@@ -20,7 +19,7 @@ Also a thank you to the people who contributed to the game data
 
 ### What is this repository for? ###
 
-* Used for the OwlGaming Community's V RP server
+* Used for the Project B RP server - Based off the OwlGamingV Script
 * Built using C# server side and client side with a MySQL Database backend.
 
 ### References ###
